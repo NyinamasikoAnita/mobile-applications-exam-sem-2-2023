@@ -1,0 +1,7 @@
+ i used the following design choices.
+
+ included an app bar with a blue background.
+ it includes a title which is centered and white in color.
+ the application body is centered and in a column.
+ the application buttons are all with a blue background and text in white color.
+ the application text is designed in black color.
